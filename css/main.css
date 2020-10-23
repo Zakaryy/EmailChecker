@@ -1,0 +1,42 @@
+h1 {
+    color: rgb(35, 35, 35);
+  }
+  
+.container{
+    display: flex;
+    justify-content: center;
+    
+    
+    height: auto;
+    margin: 50px;
+    flex-direction : column;
+    
+}
+
+#intro{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    margin: 10px;
+    align-items: center;
+    flex-direction : column;
+}
+
+
+.form-group{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+}
+
+.form-control{
+
+}
+
+label{
+    color: rgb(35, 35, 35);
+}
+.button{
+    margin: auto;
+}
