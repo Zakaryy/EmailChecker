@@ -1,42 +1,43 @@
 h1 {
-    color: rgb(35, 35, 35);
-  }
-  
-.container{
-    display: flex;
-    justify-content: center;
-    
-    
-    height: auto;
-    margin: 50px;
-    flex-direction : column;
-    
+  color: rgb(35, 35, 35);
 }
 
-#intro{
-    display: flex;
-    justify-content: center;
-    height: 100px;
-    margin: 10px;
-    align-items: center;
-    flex-direction : column;
+.container {
+  display: flex;
+  justify-content: center;
+
+  height: 40%;
+  margin: 50px;
+  flex-direction: column;
 }
 
-
-.form-group{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    align-content: space-around;
+#intro {
+  display: flex;
+  justify-content: center;
+  height: 100px;
+  margin: 10px;
+  align-items: center;
+  flex-direction: column;
 }
 
-.form-control{
-
+.form-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: space-around;
 }
 
-label{
-    color: rgb(35, 35, 35);
+.form-control {
 }
-.button{
-    margin: auto;
+
+label {
+  color: rgb(35, 35, 35);
+}
+.btn {
+  margin-left: 40%;
+  margin-right: 40%;
+  margin-top: 3%;
+}
+. text {
+  margin-top: 100px;
 }
